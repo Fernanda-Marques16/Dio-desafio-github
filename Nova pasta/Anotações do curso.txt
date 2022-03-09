@@ -1,0 +1,9 @@
+Documento para anotações
+Git
+
+comandos
+Git clone
+git status
+Git add . ou git add -A
+Git commit -m "texto do commit"
+Git push origin main
